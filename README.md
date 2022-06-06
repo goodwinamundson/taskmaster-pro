@@ -33,7 +33,7 @@ Users should clone the repository from GitHub and open the index file in the bro
 
 ## Usage 
 This application allows users to search for any user on GitHub and view their open source projects.<br>
-Please view deployed on [GitHub Pages](https://goodwinamundson.github.io/git-it-done/)
+Please view deployed on [GitHub Pages](https://goodwinamundson.github.io/taskmaster-pro/taskmaster-starter/index.htmlg)
 <img src="./taskmaster-starter/assets/images/screenshot.png"><br>
 
 ## License 
